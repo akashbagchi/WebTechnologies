@@ -1,4 +1,4 @@
-# Screenshots
+# Output Screenshots
 
 ### Q1
 
