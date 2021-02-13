@@ -21,7 +21,7 @@
 
 ### Q4
 
-<a href="https://github.com/akashbagchi/WebTechnologies/blob/main/Q4.html"><img src="https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-13_094956.png"></a>
+<a href="https://github.com/akashbagchi/WebTechnologies/blob/main/Q4.html"><img src="https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-13_145904.png"></a>
 
 ### Q5
 
