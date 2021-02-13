@@ -1,4 +1,5 @@
 # Output Screenshots
+###### Click on any output image to see the associated HTML file
 
 ### Q1
 
