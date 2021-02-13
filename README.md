@@ -17,3 +17,7 @@
 #### (b)
 
 ![Q3b](https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-12_233810.png)
+
+### Q4
+
+![Q4](https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-13_094956.png)
