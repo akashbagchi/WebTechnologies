@@ -29,3 +29,7 @@
 ### Q6
 
 ![Q6](https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-13_101801.png)
+
+### Q7
+
+![Q7](https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-13_103438.png)
