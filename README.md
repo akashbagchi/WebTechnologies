@@ -13,7 +13,7 @@
 
 #### (a)
 
-<a href="https://github.com/akashbagchi/WebTechnologies/blob/main/Q3a.html"><img src="https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-12_230605.png></a>
+<a href="https://github.com/akashbagchi/WebTechnologies/blob/main/Q3a.html"><img src="https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-12_230605.png"></a>
 
 #### (b)
 
