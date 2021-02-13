@@ -2,7 +2,7 @@
 
 ### Q1
 
-<a href="https://github.com/akashbagchi/WebTechnologies/tree/main"><img src="https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-12_222025.png" border="1px solid black"></a>
+<a href="https://github.com/akashbagchi/WebTechnologies/blob/main/Q1.html"><img src="https://raw.githubusercontent.com/akashbagchi/WebTechnologies/main/Screenshots/image_2021-02-12_222025.png" border="1px solid black"></a>
 
 ### Q2
 
